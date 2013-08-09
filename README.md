@@ -1,4 +1,4 @@
-exercism
+Exercism
 ========
 
-My exercism completed, submitted and reviewed code
+My [exercism.io](http://exercism.io/) completed, submitted and reviewed code
